@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Salesforce Certified System Administrator</fullName>
+        <default>false</default>
+        <label>Salesforce Certified System Administrator</label>
+    </customValue>
+    <customValue>
+        <fullName>Advanced Administrator</fullName>
+        <default>false</default>
+        <label>Advanced Administrator</label>
+    </customValue>
+    <customValue>
+        <fullName>Business Analyst</fullName>
+        <default>false</default>
+        <label>Business Analyst</label>
+    </customValue>
+    <customValue>
+        <fullName>CPQ Specialist</fullName>
+        <default>false</default>
+        <label>CPQ Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Marketing Cloud Administrator</fullName>
+        <default>false</default>
+        <label>Marketing Cloud Administrator</label>
+    </customValue>
+    <customValue>
+        <fullName>Platform App Builder</fullName>
+        <default>false</default>
+        <label>Platform App Builder</label>
+    </customValue>
+    <masterLabel>Courses</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
