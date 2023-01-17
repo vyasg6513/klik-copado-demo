@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
-    <brand>
-        <headerColor>#1D35C1</headerColor>
-        <logo>training</logo>
-        <logoVersion>1</logoVersion>
-        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
-    </brand>
+    
     <description>The App is created for Training Module of Klique Software Solutions</description>
     <formFactors>Small</formFactors>
     <formFactors>Large</formFactors>
